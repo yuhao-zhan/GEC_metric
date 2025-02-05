@@ -1,0 +1,2 @@
+Pearson: 0.8
+Spearman: 0.72

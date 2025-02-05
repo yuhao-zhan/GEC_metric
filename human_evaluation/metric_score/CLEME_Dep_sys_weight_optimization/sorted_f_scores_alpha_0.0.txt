@@ -1,0 +1,8 @@
+BART.m2: 0.6003
+BERT-fuse.m2: 0.6904
+GECToR-ens.m2: 0.6468
+GPT-3.5.m2: 0.6744
+INPUT.m2: 0
+LM-Critic.m2: 0.6082
+PIE.m2: 0.6358
+REF-F.m2: 0.5852
